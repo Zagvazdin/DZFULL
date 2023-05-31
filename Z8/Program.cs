@@ -3,7 +3,7 @@
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
 
-Console.WriteLine("Введите длину: ");
+Console.WriteLine("Введите число: ");
 int n = int.Parse(Console.ReadLine());
     
 for (int i = 1; i <= n; i++)
